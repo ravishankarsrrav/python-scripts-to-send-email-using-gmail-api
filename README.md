@@ -63,7 +63,8 @@ Below one is just a demo please go through the link given in your console
 
 * **Ravishankar S R** - *Full stack developer* - ravishankarsr.rav@gmail.com
 
-[Twitter](https://twitter.com/ravishankar_rav)
+* [Twitter](https://twitter.com/ravishankar_rav)
+* [LinkedIn](https://www.linkedin.com/in/ravishankarsr-rav)
 
 
 ## License
