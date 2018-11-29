@@ -47,6 +47,7 @@ python send-email.py --noauth_local_webserver
 Below one is just a demo please go through the link given in your console
 
 >https://accounts.google.com/o/oauth2/auth?scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.compose&redirect_uri=urnAoaut2.0%3Aoob&response_type=code&client_id=clientid.apps.googleusercontent.com&access_type=offline
+
 >Enter verfication code:
 
 
