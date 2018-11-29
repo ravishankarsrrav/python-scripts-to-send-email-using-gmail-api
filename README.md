@@ -42,20 +42,19 @@ python send-email.py --noauth_local_webserver
 ```
 
 
-### After running script console will ask you to enter the verification
+### After running the script console will ask you to enter the verification code
 
 Below one is just a demo please go through the link given in your console
 
 >https://accounts.google.com/o/oauth2/auth?scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.compose&redirect_uri=urnAoaut2.0%3Aoob&response_type=code&client_id=clientid.apps.googleusercontent.com&access_type=offline
+>Enter verfication code:
 
->Enter verfication code:.
 
-
-> Please copy the link and enter in the browser then allow your gmail account to give access to your application
+> Please copy the link and enter in the browser then allow your Gmail account to give access to your application
 
 > And then copy the verification code into console then click enter your email will be sent and
 
-> It creates a gmail.storage file in your project directory which will have a token to send next emails without verification code.
+> It creates a gmail.storage file in your project directory which will have a token to send text emails without verification code.
 
 
 
