@@ -1,5 +1,5 @@
 # python-scripts-to-send-email-using-gmail-api
-Python scripts to send email using gmail API.
+Python scripts to send email using Gmail API which helps you to save cost and time on your email campaign and have a higher chance of landing email into inbox.
 
 ### Prerequisites
 
