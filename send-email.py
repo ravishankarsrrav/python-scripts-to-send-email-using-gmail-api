@@ -49,7 +49,7 @@ for i in range(0, Excel_Sheet.nrows):
   text_msg = """\
 Hey """+ name_of_candidate +""" ,
 
-Thanks.
+Thanks
 
 Regards,
 Ravi    
@@ -58,8 +58,8 @@ Ravi
   # create a message to send
   message = MIMEText(text_msg)
   message['to'] = Excel_Sheet.row_values(i)[1] #replace to email Id
-  message['from'] = "Zauba Cloud <akarsh@zauba.company>" #replace from email Id
-  message['subject'] = "Zauba Cloud Interview - Schedule Request" #replace the subject
+  message['from'] = "Ravishankar <ravishankarsr.rav@gmail.com>" #replace from email Id
+  message['subject'] = "Reporting cool stuff" #replace the subject
   body = {'raw': base64.urlsafe_b64encode(message.as_string().encode()).decode()}
 
   # send it
